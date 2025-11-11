@@ -1,6 +1,4 @@
-## ✅ Project Status: Klaar om te Draaien!
-
-**Ja**, u hebt nu alle vier de essentiële Python-scripts **compleet en werkend** om de gesimuleerde Libel Jacht AI te draaien.
+## ✅ Project Status: Klaar om te Draaien! U hebt nu alle vier de essentiële Python-scripts **compleet en werkend** om de gesimuleerde Libel Jacht AI te draaien.
 
 ### 📜 Projectbestanden:
 
